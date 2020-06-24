@@ -17,4 +17,4 @@ Besides the academic intersts, I have several hobbies:
 
 ### Comment on hw01
 It is not so challenging in forking the repo, downloading the clone, and editing the readme.md.  
-At first, I am not very used to writing in Markdown format, even with the help of the cheatsheet. I still don't know how to resize the photo, ajust the position of texts, or adjust the font; these features  are easier to use in GUI workflow. Nevertheless, I start to realize the benefit of using RMarkdown -- it is simple to reproduce. I would love to learn more about R MArkdown technique.
+At first, I am not very used to writing in Markdown format, even with the help of the cheatsheet. I still don't know how to resize the photo, ajust the position of texts, or adjust the font; these features  are easier to use in GUI workflow. Nevertheless, I start to realize the benefit of using RMarkdown -- it is simple to reproduce. I would love to learn more about R Markdown technique.
